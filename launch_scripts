@@ -1,0 +1,4 @@
+# Install Git
+echo "Installing Git"
+yum update -y
+yum install git -y
